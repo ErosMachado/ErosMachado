@@ -35,3 +35,14 @@
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+
+
+---
+
+
+<p align="center"><b>Contagem de Visitantes</b></p> 
+<br>
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FErosMachado&s=60&c=0d38ba&bg=00000000&no=6&ff=digii&tb=&ta=" alt="visits"></p> 
+<br>
+
