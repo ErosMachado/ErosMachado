@@ -1,4 +1,4 @@
-## Hi there! I'm Eros Machado👋
+## Hi there! I'm Eros Machado 👋
 
 ---
 
@@ -10,8 +10,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembler&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -27,6 +30,7 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![EdSim51](https://img.shields.io/badge/EdSim51-4285F4?style=for-the-badge&logo=microchip&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-32CD32?style=for-the-badge)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
@@ -36,13 +40,9 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-
-
 ---
-
 
 <p align="center"><b>Contagem de Visitantes</b></p> 
 <br>
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FErosMachado&s=60&c=0d38ba&bg=00000000&no=6&ff=digii&tb=&ta=" alt="visits"></p> 
 <br>
-
